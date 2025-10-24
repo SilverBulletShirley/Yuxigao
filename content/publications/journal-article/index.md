@@ -1,7 +1,7 @@
 ---
 title: "Self-control as a predictor of peer relationships in adolescents with rumination as a mediator and gender-role orientation as a moderator: An intervention study"
 authors:
-- admin
+- Yuxi Gao
 - Robert Ford
 author_notes:
 - "Equal contribution"
