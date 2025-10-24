@@ -59,7 +59,7 @@ interests:
 
 education:
   - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+    institution:  Institution of Psychology, CAS
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
